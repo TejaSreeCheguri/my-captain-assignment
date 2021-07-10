@@ -3,7 +3,7 @@
 #CALCULATOR
 
 print("ENTER 1 for Addition \n      2 for Subtraction \n      3 for  Multiplication \n      4 for division")
-b = eval(input("enter first number: "))
+b = eval(input("enter first number: "))                     #eval() function converts the input which is in string format to integer
 c = eval(input("enter second number: "))
 a = eval(input(" Enter your choice: "))
 
